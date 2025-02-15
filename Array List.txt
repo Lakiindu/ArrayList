@@ -1,0 +1,12 @@
+OUTPUT
+
+Array List
+
+ArrayList: [10, 20, 30, 40, 50]
+After inserting 25 at index 2: [10, 20, 25, 30, 40, 50]
+After removing element at index 3: [10, 20, 25, 40, 50]
+Element at index 2: 25
+After updating index 1 to 15: [10, 15, 25, 40, 50]
+Does the list contain 40? true
+Size of the ArrayList: 5
+Is the ArrayList empty? false
